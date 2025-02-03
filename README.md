@@ -17,11 +17,31 @@ I recently developed a simple console application in C# for hostel seat booking 
 
 I have created a 5-minute video explaining how this project works.
 
-<h5>📺 Watch the Video: [Click here] (https://www.facebook.com/jonysarowar.official/videos/555239860897243)
+📺 Watch the Video: [Click here](https://www.facebook.com/jonysarowar.official/videos/555239860897243)
 
 
 # 💡 Contribution
 If you find any bugs or want to improve this project, feel free to fork the repository and submit a pull request.
 
 # 📞 Contact <br>
-<h4>📩 Email: <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">jonysarowar@gmail.com</a> </h4>
+📩 Email:  [jonysarowar@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+
+<a href="https://www.linkedin.com/in/jonisarowar/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" style="vertical-align: middle;"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/jonysarowar.official" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30" style="vertical-align: middle;"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/@Jony_Sarowar" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="30" height="30" style="vertical-align: middle;"/>
+</a>
+
+<h5>🚀 Happy Coding! 💻🎯</h5>
+
+
+
+
+
+
