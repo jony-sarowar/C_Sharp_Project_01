@@ -10,7 +10,7 @@ I recently developed a simple console application in C# for hostel seat booking 
 
 # 🚀 How to Run?
 1️⃣ [Clone the Repository](https://github.com/jony-sarowar/C_Sharp_Project_01.git) <br>
-2️⃣ Open the Project in Visual Studio or any C# IDE.<br>
+2️⃣ Open the MessManagementSystemSln.sln file in Visual Studio or any C# IDE.<br>
 3️⃣ Run the Program<br>
 
 # 📽 Demo Video
